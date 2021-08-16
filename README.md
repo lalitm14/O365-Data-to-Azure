@@ -30,6 +30,6 @@
 <br>
 **(b)** [Build your first Microsoft Graph Data Connect application | Microsoft Docs](https://docs.microsoft.com/en-us/graph/data-connect-quickstart?tabs=Microsoft365)
 <br>
-**(c)** [Introduction to ASP.NET Core]() https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-5.0 
+**(c)** [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-5.0)
 <br/>
 **(d)** [Introduction to Razor Pages in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio)
