@@ -1,9 +1,9 @@
-<font size="100">**O365-data-to-Azure**</font> :point_right:
-1.	<font size="4">**Title**</font>: Pulling Office365 Users Usage (signals) data at-scale for downstream analytics insights, leveraging Microsoft Graph Data connect with the Microsoft Data Factory Service.
+<font size="100">**O365-data-to-Azure**</font> :point_right:\
+<font size="5">**1. Title**</font>: Pulling Office365 Users Usage (signals) data at-scale for downstream analytics insights, leveraging Microsoft Graph Data connect with the Microsoft Data Factory Service.
 
-2.	<font size="4">**Description**</font>: Sample End-user application short description: Here is a sample minimal C# Web application that demonstrates how the Office 365 user data can be quickly obtained at-scale to feed the downstream application to extract the insights and the learning from it. All this while keeping the data with the enterprise subscription and with finer granularity of consent for access compared to using Microsoft Graph API calls-based applications.
+<font size="5">**2. Description**</font>: Sample End-user application short description: Here is a sample minimal C# Web application that demonstrates how the Office 365 user data can be quickly obtained at-scale to feed the downstream application to extract the insights and the learning from it. All this while keeping the data with the enterprise subscription and with finer granularity of consent for access compared to using Microsoft Graph API calls-based applications.
 
-3.	<font size="4">**Video Demo**</font> 📽️ [9 minutes 44 seconds]: This Demo https://youtu.be/8WIcnof-CL8 video steps through entire workflow of the data extraction in three broad stages.\
+<font size="5">**3. Video Demo**</font> 📽️ [9 minutes 44 seconds]: This Demo https://youtu.be/8WIcnof-CL8 video steps through entire workflow of the data extraction in three broad stages.\
 
 **(i)** Setting up the Office 365 source tenant with the email-enabled security group to consider and approve the request to access the Office 365 users usage data by the Azure Data Factory for this demonstration of bulk data extraction.\
 
@@ -11,7 +11,7 @@
 
 **(iii)** Sample demonstration app coded using the ASP.NET Core using C# and HTML. This is just a simple example using the email statistics table. The possibilities are unlimited, based on the downstream insights that one might be looking for to better understand the working of the knowledge workers of the organization.
 
-4.	<font size="4">**Instruction to try-out this Demo**</font>:\
+<font size="5">**4. Instruction to try-out this Demo**</font>:\
 
 **(i)** Follow the instruction in the 'Microsoft Docs' website as in the reference# (b) provided in the "References" section below, up till the Step#5 only\
 
@@ -21,12 +21,12 @@
 
 **(iv)** Hit "F5" to run the app and select the "EmailMEtrics" option from the top menu bar to show the email statistics from the O365 tenant used for this demonstration.
 
-5.	<font size="4">*References**</font>: 🌏
+<font size="5">**5. References**</font>: 🌏
 
-**(a)** Overview of Microsoft Graph Data Connect - Microsoft Graph | Microsoft Docs [Caption] https://docs.microsoft.com/en-us/graph/data-connect-concept-overview 
+**(a)** [Overview of Microsoft Graph Data Connect - Microsoft Graph | Microsoft Docs](https://docs.microsoft.com/en-us/graph/data-connect-concept-overview)
 
-**(b)** Build your first Microsoft Graph Data Connect application | Microsoft Docs [Caption] https://docs.microsoft.com/en-us/graph/data-connect-quickstart?tabs=Microsoft365
+**(b)** [Build your first Microsoft Graph Data Connect application | Microsoft Docs](https://docs.microsoft.com/en-us/graph/data-connect-quickstart?tabs=Microsoft365)
 
-**(c)** Introduction to ASP.NET Core [Caption] https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-5.0 
+**(c)** [Introduction to ASP.NET Core]() https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-5.0 
 
-**(d)** Introduction to Razor Pages in ASP.NET Core [Caption] https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio
+**(d)** [Introduction to Razor Pages in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-5.0&tabs=visual-studio)
