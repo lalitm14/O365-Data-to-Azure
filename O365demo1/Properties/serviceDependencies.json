@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "secrets1": {
+      "type": "secrets",
+      "connectionId": "VaultUri"
+    },
+    "secrets2": {
+      "type": "secrets",
+      "connectionId": "VaultUri"
+    },
+    "storage1": {
+      "type": "storage",
+      "connectionId": "O365demo1storage"
+    }
+  }
+}

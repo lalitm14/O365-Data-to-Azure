@@ -1,0 +1,23 @@
+﻿@page
+@model O365demo1.Pages.EmailMetricsModel
+@{
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Sender</th>
+            <th>Recipient Count</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var metricRow in Model.EmailMetrics)
+        {
+            <tr>
+                <td>@metricRow.Sender</td>
+                <td>@metricRow.RecipientsToEmail</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

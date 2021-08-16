@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "secrets2": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.KeyVault/vaults/O365demo1KV",
+      "type": "secrets.keyVault",
+      "connectionId": "VaultUri",
+      "secretStore": "AzureAppSettings"
+    },
+    "storage1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/mgdcm365datastore1",
+      "type": "storage.azure",
+      "connectionId": "O365demo1storage",
+      "secretStore": "AzureKeyVault"
+    }
+  }
+}
