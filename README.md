@@ -8,8 +8,9 @@
  **(a)** Setting up the Office 365 source teanant with the email-enabled secuirty group to consider and approve the request to access the Office 365 users usgae data by the Azure Data Factory for this demonstration of bulk data extraction.\
  **(b)** Setting up the data pipeline in the Azure Data Factory. It is a simple signle activity of copy from the Office 365 tenant prepared using the Microsoft Graph Connector as source. And copying to a sink which in this demo is a Azure Blob storage in a Azure Storage account container.\
  **(b)** Sample demonstration app coded using the ASP.NET Core using C# and HTML. This is just a simple example using the email statistics table. The possibilities are unlimited, based on the downstream insights that one might be looking for to better understand the working of the knowledge workers of the organization.
+4. **Instruction to run this Demo**:
 
-4.	**References**: :earth_asia:
+5.	**References**: :earth_asia:
 
     **(a)**   Overview of Microsoft Graph Data Connect - Microsoft Graph | Microsoft Docs [Caption] https://docs.microsoft.com/en-us/graph/data-connect-concept-overview\
   
