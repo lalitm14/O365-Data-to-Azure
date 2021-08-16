@@ -18,7 +18,7 @@ The sample web application that demonstrates how the Office 365 user data can be
 
 ## How to use this repository
 
-1. Follow the instruction outlined in this [Microsoft Documentation Article here]([Build your first Microsoft Graph Data Connect application | Microsoft Docs](https://docs.microsoft.com/en-us/graph/data-connect-quickstart?tabs=Microsoft365)) **up until step #5 only ⚠️**
+1. Follow the instruction outlined in this [Microsoft Documentation Article here](https://docs.microsoft.com/en-us/graph/data-connect-quickstart?tabs=Microsoft365) **up until step #5 only ⚠️**
 2. Clone this repository to your local machine, and open the `O365Demo.sln` solution file with Visual Studio ([available for free here](https://visualstudio.microsoft.com/downloads/)).
 3. Set up connected services for the Azure storage container hosting the email blob that you have created in the step #3 of the 'Microsoft Docs' website
 
