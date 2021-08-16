@@ -21,7 +21,7 @@
 <br>
 **(ii)** Clone this "O365-Data-to-Azure" git repository on to your local host machine. Upon opening the project O365Demo1 inside this folder in Visual Studio, double-click on the project in the solution explorer window to reveal the project structure.
 <br>
-**(iii)** Setup the Azure storage container hosting the email blob, that you have created in the step#3 of the 'Microsoft Docs' website as in the reference# (b) provided in the "References" section below. also check out the 'add connected service.jpg' file provided in this repository with screenshots of the process<br>**(iv)** Hit "F5" to run the app and select the "EmailMEtrics" option from the top menu bar to show the email statistics from the O365 tenant used for this demonstration.
+**(iii)** Setup the Azure storage container hosting the email blob, that you have created in the step#3 of the 'Microsoft Docs' website as in the reference# (b) provided in the "References" section below as the connected service for this project. Also check out the 'add connected service.jpg' file provided in this repository with screenshots of the process<br>**(iv)** Hit "F5" to run the app and select the "EmailMetrics" option from the top menu bar to show the email statistics flowing from the O365 tenant used for this demonstration.
 <br>
 <br>
 <font size="5">**5. References**</font>: 🌏
